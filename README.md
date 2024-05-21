@@ -52,6 +52,6 @@ bash camphish.sh
 <p><b>Version: 1.3:</b> Fix ngrok direct link</p>
 
 CamPhish- More Video Follow & Subscribe <a href="https://www.facebook.com/macreationbdofficial"> M A Creation Facebook Page </a>  
-<a href="https://www.youtube.com/macreationbd"> M A Creation Youtube Channel</a>
+<a href="https://www.youtube.com/@macreationbd"> M A Creation Youtube Channel</a>
 <p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 <p>CamPhish is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
